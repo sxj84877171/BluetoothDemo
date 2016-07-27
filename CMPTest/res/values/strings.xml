@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CMPTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="message">{
+  \"data\": {
+    \"name\": \"pushSms\",
+    \"parameters\": [
+      {
+        \"name\": \"messages\",
+        \"value\": [
+          {
+            \"type\": \"sms\",
+            \"data\": {
+              \"from\": \"4001011392\",
+              \"message\": \"广东移动提醒您：4001011392在20/05 13:32给您来电一次，您可按通话键或选项键直接回拨。~\",
+              \"to\": \"null\",
+              \"status\": 1,
+              \"time\": 1400656337722,
+              \"read\": false
+            }
+          },
+          {
+            \"type\": \"sms\",
+            \"data\": {
+              \"from\": \"+8618665857185\",
+              \"message\": \"Good luck have fun\",
+              \"to\": \"null\",
+              \"status\": 1,
+              \"time\": 1400656210398,
+              \"read\": true
+            }
+          },
+          {
+            \"type\": \"sms\",
+            \"data\": {
+              \"from\": \"106575554445\",
+              \"message\": \"【唯品会】5.20姐妹节狂免单咯！今日丽丽、雅诗兰黛、美即、马克华菲等全场1折起，邀请姐妹同行有机会免单，详情登录 vip.com 回TD退订\",
+              \"to\": \"null\",
+              \"status\": 1,
+              \"time\": 1400656205314,
+              \"read\": false
+            }
+          },
+          {
+            \"type\": \"sms\",
+            \"data\": {
+              \"from\": \"null\",
+              \"message\": \"hello world\",
+              \"to\": \"+8618665857185\",
+              \"status\": 2,
+              \"time\": 1400656181558,
+              \"read\": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  \"id\": \"\",
+  \"version\": \"1.0\",
+  \"type\": \"request\"
+}</string>
+
+    <string name="message1">{
+  \"data\": {
+    \"name\": \"pushSms\",
+    \"parameters\": [
+      {
+        \"name\": \"message\",
+        \"value\": {
+          \"type\": \"sms\",
+          \"data\": {
+            \"from\": \"4001011392\",
+            \"message\": \"广东移动提醒您：4001011392在20/05 13:32给您来电一次，您可按通话键或选项键直接回拨。~\",
+            \"to\": \"null\",
+            \"status\": 1,
+            \"time\": 1400656337722,
+            \"read\": false
+          }
+        }
+      }
+    ]
+  },
+  \"id\": \"\",
+  \"version\": \"1.0\",
+  \"type\": \"request\"
+}</string>
+
+</resources>
