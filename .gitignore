@@ -48,4 +48,5 @@ Temporary Items
 *.class
 CMPLib/bin/
 CMPTest/bin/
-
+CMPLib/gen/
+CMPTest/gen/
