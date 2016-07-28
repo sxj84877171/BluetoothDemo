@@ -46,6 +46,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.class
-CMPLib\bin\
-CMPTest\bin\
+CMPLib/bin/
+CMPTest/bin/
 
